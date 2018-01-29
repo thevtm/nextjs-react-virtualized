@@ -1,0 +1,20 @@
+{
+  "name": "nextjs-react-virtualized",
+  "version": "1.0.0",
+  "description": "This is a test project for combining NextJS and React Virtualized.",
+  "scripts": {
+    "dev": "next",
+    "start": "next build && next start",
+    "export": "next build && next export"
+  },
+  "keywords": [],
+  "author": "Vinícius T. M.",
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-unfetch": "^2.0.0",
+    "next": "^4.2.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-virtualized": "^9.18.0"
+  }
+}
