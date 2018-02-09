@@ -2,6 +2,8 @@
 
 This is a test project for combining [NextJS](https://github.com/zeit/next.js/) and [React Virtualized](https://github.com/bvaughn/react-virtualized/).
 
+[Live Demo](https://nextjs-react-virtualized.surge.sh)
+
 ## Usage
 
 * Installation: `yarn install`

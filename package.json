@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next",
     "start": "next build && next start",
-    "export": "next build && next export"
+    "export": "next build && next export",
+    "deploy": "surge out nextjs-react-virtualized.surge.sh"
   },
   "keywords": [],
   "author": "Vinícius T. M.",
@@ -16,5 +17,8 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-virtualized": "^9.18.0"
+  },
+  "devDependencies": {
+    "surge": "^0.19.0"
   }
 }
